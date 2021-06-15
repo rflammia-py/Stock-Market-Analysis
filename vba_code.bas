@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+
 Sub stock_market()
 
 Dim ticker
