@@ -14,15 +14,15 @@ I will utilize VBA Scripting to analyze real stock market data. I created a scri
    -Ticker symbol
   
 ## 2014 Multi Year Stock Data
+<img width="1224" alt="2014" src="https://user-images.githubusercontent.com/62668061/122125423-7730b480-cdfe-11eb-91eb-76b80969992b.png">
 
 
 ## 2015 Multi Year Stock Data
+<img width="1173" alt="2015" src="https://user-images.githubusercontent.com/62668061/122125446-7dbf2c00-cdfe-11eb-933d-4113d01bf2c4.png">
+
 
 
 ## 2016 Multi Year Stock Data
+<img width="1162" alt="2016" src="https://user-images.githubusercontent.com/62668061/122125457-80218600-cdfe-11eb-8ed7-e20e247cca09.png">
 
-
-
-
-###### Source Data:
   
